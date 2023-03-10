@@ -1,6 +1,7 @@
 {
-  "links": {
-    "Free Images": {
+  "links": [
+    {
+      "name": "Free Images",
       "icon": {
         "prefix": "fas",
         "iconName": "image",
@@ -18,7 +19,8 @@
         "https://thenounproject.com/"
       ]
     },
-    "Free Videos": {
+    {
+      "name": "Free Videos",
       "icon": {
         "prefix": "fas",
         "iconName": "video",
@@ -32,7 +34,8 @@
       },
       "links": ["https://coverr.co/es", "https://dronestock.com/"]
     },
-    "Free Illustrations": {
+    {
+      "name": "Free Illustrations",
       "icon": {
         "prefix": "fas",
         "iconName": "bezier-curve",
@@ -53,7 +56,8 @@
         "https://www.glazestock.com/"
       ]
     },
-    "Generated Resources": {
+    {
+      "name": "Generated Resources",
       "icon": {
         "prefix": "fas",
         "iconName": "wand-magic-sparkles",
@@ -80,7 +84,8 @@
         "https://haikei.app/"
       ]
     },
-    "Icons": {
+    {
+      "name": "Icons",
       "icon": {
         "prefix": "fas",
         "iconName": "heart",
@@ -94,7 +99,8 @@
       },
       "links": ["https://lordicon.com/", "https://fontawesome.com/", "https://www.flaticon.es/"]
     },
-    "Mockups": {
+    {
+      "name": "Mockups",
       "icon": {
         "prefix": "fas",
         "iconName": "mobile-screen-button",
@@ -113,7 +119,8 @@
         "https://animockup.com/"
       ]
     },
-    "Inspiration": {
+    {
+      "name": "Inspiration",
       "icon": {
         "prefix": "fas",
         "iconName": "lightbulb",
@@ -133,7 +140,8 @@
         "https://www.pafolios.com/"
       ]
     },
-    "fonts": {
+    {
+      "name": "Fonts",
       "icon": {
         "prefix": "fas",
         "iconName": "font",
@@ -147,7 +155,8 @@
       },
       "links": ["https://www.fontshare.com/", "https://fonts.google.com/", "https://fontesk.com/"]
     },
-    "Others": {
+    {
+      "name": "Others",
       "icon": {
         "prefix": "fas",
         "iconName": "otter",
@@ -182,5 +191,6 @@
         "https://alpha.womp3d.com/ -  Work 3D / website"
       ]
     }
-  }
+  ]
 }
+

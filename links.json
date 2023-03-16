@@ -14,9 +14,18 @@
         ]
       },
       "links": [
-        "https://unsplash.com/es",
-        "https://www.pexels.com/es-es/",
-        "https://thenounproject.com/"
+        {
+          "url": "https://unsplash.com/es",
+          "name": "Unsplash"
+        },
+        {
+          "url": "https://www.pexels.com/es-es/",
+          "name": "Pexels"
+        },
+        {
+          "url": "https://thenounproject.com/",
+          "name": "Noun Project"
+        }
       ]
     },
     {
@@ -32,7 +41,16 @@
           "M0 128C0 92.7 28.7 64 64 64H320c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128zM559.1 99.8c10.4 5.6 16.9 16.4 16.9 28.2V384c0 11.8-6.5 22.6-16.9 28.2s-23 5-32.9-1.6l-96-64L416 337.1V320 192 174.9l14.2-9.5 96-64c9.8-6.5 22.4-7.2 32.9-1.6z"
         ]
       },
-      "links": ["https://coverr.co/es", "https://dronestock.com/"]
+      "links": [
+        {
+          "url": "https://coverr.co/es",
+          "name": "Coverr"
+        },
+        {
+          "url": "https://dronestock.com/",
+          "name": "Dronestock"
+        }
+      ]
     },
     {
       "name": "Free Illustrations",
@@ -48,12 +66,30 @@
         ]
       },
       "links": [
-        "https://undraw.co/illustrations",
-        "https://www.openpeeps.com/",
-        "https://blush.design/es",
-        "https://www.drawkit.com/",
-        "https://www.opendoodles.com/",
-        "https://www.glazestock.com/"
+        {
+          "url": "https://undraw.co/illustrations",
+          "name": "unDraw"
+        },
+        {
+          "url": "https://www.openpeeps.com/",
+          "name": "Open Peeps"
+        },
+        {
+          "url": "https://blush.design/es",
+          "name": "Blush"
+        },
+        {
+          "url": "https://www.drawkit.com/",
+          "name": "DrawKit"
+        },
+        {
+          "url": "https://www.opendoodles.com/",
+          "name": "Open Doodles"
+        },
+        {
+          "url": "https://www.glazestock.com/",
+          "name": "Glaze Stock"
+        }
       ]
     },
     {
@@ -70,18 +106,52 @@
         ]
       },
       "links": [
-        "https://fffuel.co/dddepth/",
-        "https://app.pixelz.ai/images",
-        "https://tabbied.com/",
-        "https://www.shapedivider.app/",
-        "https://spacetypegenerator.com/",
-        "https://peeps.ui8.net/",
-        "https://meshgradient.com/",
-        "https://neumorphism.io/",
-        "https://bennettfeely.com/clippy/",
-        "https://palettemaker.com/",
-        "https://coolors.co/",
-        "https://haikei.app/"
+        {
+          "url": "https://fffuel.co/dddepth/",
+          "name": "dddepth"
+        },
+        {
+          "url": "https://tabbied.com/",
+          "name": "Tabbied"
+        },
+        {
+          "url": "https://www.shapedivider.app/",
+          "name": "Shape Divider"
+        },
+        {
+          "url": "https://spacetypegenerator.com/",
+          "name": "Space Type Generator"
+        },
+
+        {
+          "url": "https://peeps.ui8.net/",
+          "name": "Peeps"
+        },
+
+        {
+          "url": "https://meshgradient.com/",
+          "name": "Mesh Gradient"
+        },
+        {
+          "url": "https://neumorphism.io/",
+          "name": "Neumorphism"
+        },
+        {
+          "url": "https://bennettfeely.com/clippy/",
+          "name": "CSS Clip Path Maker"
+        },
+        {
+          "url": "https://palettemaker.com/",
+          "name": "Palette Maker"
+        },
+        {
+          "url": "https://coolors.co/",
+          "name": "Coolors"
+        },
+        {
+          "url": "https://haikei.app/",
+          "name": "Haikei: SVG design assets"
+        }
       ]
     },
     {
@@ -97,7 +167,20 @@
           "M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"
         ]
       },
-      "links": ["https://lordicon.com/", "https://fontawesome.com/", "https://www.flaticon.es/"]
+      "links": [
+        {
+          "url": "https://lordicon.com/",
+          "name": "Lordicon"
+        },
+        {
+          "url": "https://fontawesome.com/",
+          "name": "FontAwesome"
+        },
+        {
+          "url": "https://www.flaticon.es/",
+          "name": "Flat Icon"
+        }
+      ]
     },
     {
       "name": "Mockups",
@@ -113,10 +196,22 @@
         ]
       },
       "links": [
-        "https://creatoom.com/",
-        "https://mockups-design.com/",
-        "https://www.ls.graphics/",
-        "https://animockup.com/"
+        {
+          "url": "https://creatoom.com/",
+          "name": "Creatoom"
+        },
+        {
+          "url": "https://mockups-design.com/",
+          "name": "Mockups Design"
+        },
+        {
+          "url": "https://www.ls.graphics/",
+          "name": "LS Graphics"
+        },
+        {
+          "url": "https://animockup.com/",
+          "name": "Animockup"
+        }
       ]
     },
     {
@@ -133,11 +228,30 @@
         ]
       },
       "links": [
-        "https://mobbin.com/browse/web/screens",
-        "https://dribbble.com/",
-        "https://co.pinterest.com/",
-        "https://www.awwwards.com/",
-        "https://www.pafolios.com/"
+        {
+          "url": "https://mobbin.com/",
+          "name": "Mobbin"
+        },
+        {
+          "url": "https://dribbble.com/",
+          "name": "Dribbble"
+        },
+        {
+          "url": "https://co.pinterest.com/",
+          "name": "Pinterest"
+        },
+        {
+          "url": "https://www.awwwards.com/",
+          "name": "Awwwards"
+        },
+        {
+          "url": "https://www.pafolios.com/",
+          "name": "Pafolios"
+        },
+        {
+          "url": "https://www.behance.net/",
+          "name": "Behance"
+        }
       ]
     },
     {
@@ -153,7 +267,20 @@
           "M254 52.8C249.3 40.3 237.3 32 224 32s-25.3 8.3-30 20.8L57.8 416H32c-17.7 0-32 14.3-32 32s14.3 32 32 32h96c17.7 0 32-14.3 32-32s-14.3-32-32-32h-1.8l18-48H303.8l18 48H320c-17.7 0-32 14.3-32 32s14.3 32 32 32h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H390.2L254 52.8zM279.8 304H168.2L224 155.1 279.8 304z"
         ]
       },
-      "links": ["https://www.fontshare.com/", "https://fonts.google.com/", "https://fontesk.com/"]
+      "links": [
+        {
+          "url": "https://www.fontshare.com/",
+          "name": "Fontshare"
+        },
+        {
+          "url": "https://fonts.google.com/",
+          "name": "Google Fonts"
+        },
+        {
+          "url": "https://fontesk.com/",
+          "name": "Fontesk"
+        }
+      ]
     },
     {
       "name": "Others",
@@ -169,26 +296,86 @@
         ]
       },
       "links": [
-        "https://uiverse.io/all   - All kinds of resources with HTML & CSS",
-        "https://flippingtypical.com/  - Preview fonts from your PC",
-        "https://uiball.com/loaders/   - Loaders",
-        "https://animatedbackgrounds.me/   - Animated BGs",
-        "https://freefrontend.com/   - All kinds of resources",
-        "https://freefrontend.com/css-cards/   -  CSS cards",
-        "https://architextures.org/   -  Materials generator and editor",
-        "https://animista.net/   -  CSS animations",
-        "https://www.cattocss.com/   -  Hover animations",
-        "https://animate.style/   -  CSS animations",
-        "https://ianlunn.github.io/Hover/   -  Hover animations",
-        "https://sarthology.github.io/Animatopy/   -  CSS animations",
-        "https://codecombat.com/play/dungeon   -  Game to learn code",
-        "https://100dayscss.com/days/1/   -  Learn CSS",
-        "https://www.codewell.cc/challenges   -  Learn",
-        "https://cssbattle.dev/-  Challenge CSS",
-        "https://goodbrief.io/-  Generator for design briefs",
-        "https://keyframes.app/animate -  Play and animate CSS",
-        "https://app.spline.design/ -  Work 3D / website",
-        "https://alpha.womp3d.com/ -  Work 3D / website"
+        {
+          "url": "https://uiverse.io/all",
+          "name": "UIverse: Resources with HTML & CSS"
+        },
+        {
+          "url": "https://flippingtypical.com/",
+          "name": "Flipping Typical: Preview fonts from your PC"
+        },
+        {
+          "url": "https://uiball.com/loaders/",
+          "name": "UIBall: Loaders"
+        },
+        {
+          "url": "https://animatedbackgrounds.me/",
+          "name": "Animated Backgrounds"
+        },
+        {
+          "url": "https://freefrontend.com/",
+          "name": "Free Frontend"
+        },
+        {
+          "url": "https://freefrontend.com/css-cards/",
+          "name": "Free Frontend: CSS Cards"
+        },
+        {
+          "url": "https://architextures.org/",
+          "name": "Architextures"
+        },
+        {
+          "url": "https://animista.net/",
+          "name": "Animista: CSS animations"
+        },
+        {
+          "url": "https://www.cattocss.com/",
+          "name": "CattoCSS: Hover animations"
+        },
+        {
+          "url": "https://animate.style/",
+          "name": "Animate: CSS animations"
+        },
+        {
+          "url": "https://ianlunn.github.io/Hover/",
+          "name": "Hover CSS animations"
+        },
+        {
+          "url": "https://sarthology.github.io/Animatopy/",
+          "name": "Animatopy: CSS animations"
+        },
+        {
+          "url": "https://codecombat.com/play/dungeon",
+          "name": "CodeCombat: Learn to code by playing a game"
+        },
+        {
+          "url": "https://100dayscss.com/days/1/",
+          "name": "100 Days CSS"
+        },
+        {
+          "url": "https://www.codewell.cc/challenges",
+          "name": "Codewell: Challenges"
+        },
+        {
+          "url": "https://cssbattle.dev/",
+          "name": "CSS Battle: Code a CSS art"
+        },
+        {
+          "url": "https://goodbrief.io/",
+          "name": "Good Brief: Generate Briefs"
+        },
+        {
+          "url": "https://keyframes.app/animate",
+          "name": "Keyframes: CSS animations"
+        },
+        {
+          "url": "https://app.spline.design/",
+          "name": "Spline: Work 3D / website"
+        },
+        {
+          "url": "https://alpha.womp3d.com/",
+          "name": "Womp3D: Work 3D / website"
+        }
       ]
     }
   ]

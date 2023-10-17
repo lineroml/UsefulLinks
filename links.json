@@ -149,6 +149,10 @@
           "name": "Coolors"
         },
         {
+          "url":"https://uicolors.app/create",
+          "name": "UI Colors App"
+        },
+        {
           "url": "https://haikei.app/",
           "name": "Haikei: SVG design assets"
         }
